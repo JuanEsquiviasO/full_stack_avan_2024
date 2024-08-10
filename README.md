@@ -52,7 +52,8 @@ Documentación en README.md : Incluida documentación que explique la estructura
 
 Se entrega Formulario de entrega, desde la URL: https://docs.google.com/forms/d/e/1FAIpQLSfu9EUFkp3ehB1pdzxVZ-Kg9Px8vICb9409aq9tzy05GIiOBA/viewform
 
-Grupo N° 3 Agosto 2024 Incluyeme - UTN
+## Grupo N° 3 Agosto 2024 Incluyeme - UTN
+
 Nombres:
 - Agustin Sau
 - Juan Carlos Esquivias
