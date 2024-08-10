@@ -1,0 +1,29 @@
+<!-- Crear Personaje -->
+<h1>Crear Nuevo Personaje</h1>
+<form action="/misPersonajes/crear" method="POST" enctype="multipart/form-data" class="form-character">
+  <label for="name">Nombre</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="ki">Ki:</label>
+  <input type="text" id="ki" name="ki" required>
+
+  <label for="maxKi">Max Ki</label>
+  <input type="text" id="maxKi" name="maxKi" required>
+
+  <label for="race">Raza</label>
+  <input type="text" id="race" name="race" required>
+
+  <label for="gender">Genero</label>
+  <input type="text" id="gender" name="gender" required>
+
+  <label for="description">Descripción</label>
+  <input type="text" id="description" name="description" required>
+
+  <label for="affiliation">Afiliación</label>
+  <input type="text" id="affiliation" name="affiliation" required>
+
+  <label for="image">Imagen</label>
+  <input type="file" id="image" name="image" accept=".jpg, .jpeg, .png, .webp">
+
+  <button type="submit">Crear Personaje</button>
+</form>

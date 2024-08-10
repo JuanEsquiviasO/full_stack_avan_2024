@@ -1,0 +1,15 @@
+<h1> Personajes DRAGON BALL</h1>
+
+{{> buscador}}
+
+<ul>
+    {{#each characters}}
+      <li class="dbz-personaje"> 
+        <h1>{{name}}</h1>
+        <div>
+          <img src="{{image}}" alt="">
+          <h2> {{description}} </h2>
+        </div>  
+      </li>
+    {{/each}}
+</ul>
