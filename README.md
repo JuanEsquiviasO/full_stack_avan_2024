@@ -41,7 +41,7 @@ En la pagina principal se consume la API: https://web.dragonball-api.com/
 8. Para iniciar el proyecto en local:
 - Instalar todas las dependencias del proyecto con: npm install
 - Asegurarse que este presente el archivo .env en el repositorio
-- La BD de datos que debe ser utilizada es mispersonajes.json en el y debe estar ciorriendo en MongoDB Compass
+- La BD de datos que debe ser utilizada es mispersonajes.json en el y debe estar corriendo en MongoDB Compass
 - El puerto donde se apertura la App es en http://localhost:3000
 
 
@@ -52,10 +52,10 @@ Documentación en README.md : Incluida documentación que explique la estructura
 
 Se entrega Formulario de entrega, desde la URL: https://docs.google.com/forms/d/e/1FAIpQLSfu9EUFkp3ehB1pdzxVZ-Kg9Px8vICb9409aq9tzy05GIiOBA/viewform
 
-Grupo N° 3 
-Nombres: 
-Agustin Sau
-Juan Carlos Esquivias
+Grupo N° 3 Agosto 2024 Incluyeme - UTN
+Nombres:
+- Agustin Sau
+- Juan Carlos Esquivias
 
 
 
